@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "94bb9b9b-c0e2-4bb0-b902-e5b856f0162a",
+      "name": "Shubham",
+      "email": "iamdevshubham98@gmail.com"
+    },
+    {
+      "id": "5a637210-5e60-4398-a17b-30f13e8530c3",
+      "name": "max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "29d1109c-830d-42ec-848f-b9fde73c96c5",
+      "name": "asas",
+      "email": "sasas@gfg"
+    },
+    {
+      "id": "4b6e31c8-7cc9-4815-964a-7dade052567e",
+      "name": "dfd",
+      "email": "tftfg@gfcf"
+    },
+    {
+      "id": "31dec2c0-2901-479a-aade-734bdeee65c4",
+      "name": "ftftftftf",
+      "email": "ggcgvgvgvg@tftftf"
+    }
+  ]
+}
